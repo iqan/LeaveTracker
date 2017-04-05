@@ -1,0 +1,17 @@
+﻿
+.No {
+    
+    background-color: #FF9933;
+    border-color: #C0C0C0; 
+    color: White;
+}
+
+.Yes {
+    background-color: #33CC33;
+    border-color: #C0C0C0;
+    color: White; /* text color */
+}
+
+h2 {
+font-size: 20px !important;  /* !important added to force override of any other h2 in CSS*/
+}
